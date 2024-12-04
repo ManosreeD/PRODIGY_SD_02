@@ -1,5 +1,5 @@
 # PRODIGY_SD_02
-##Guessing Game
+# Guessing Game
 
 This project is a Python-based interactive game where the user guesses a randomly generated number within a specified range. The program provides feedback to guide the user towards the correct number.
 
